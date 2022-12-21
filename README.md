@@ -16,3 +16,14 @@ NEW CUSTOMIZED STICKERS FOR WINDOWS WALLPAPER
 ![image](https://user-images.githubusercontent.com/68233114/208981200-23bcc1d3-e548-4db6-bad6-27363a43255e.png)
 ![image](https://user-images.githubusercontent.com/68233114/208981328-f1e73c29-fdb6-4867-9abb-18f844eaeef8.png)
 ![image](https://user-images.githubusercontent.com/68233114/208981393-d4a2bf38-151c-48cf-a465-e37f7f86173e.png)
+
+
+
+
+to run the script
+
+git clone https://github.com/thugsoftechz/eduction_theme_windows.git
+
+cd eduction_theme_windows
+
+.\enable.ps1
