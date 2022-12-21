@@ -2,14 +2,15 @@
 THE POWERSHELL FILE IS USE TO ENABLE EDUCTION THEME AND STICKER TO PERSONALIZE  YOUR WINDOWS
 
 
-NEW MODES & STYLE FROM EDUCATION EDITION OF WINDOWS
+# NEW MODES & STYLE FROM EDUCATION EDITION OF WINDOWS
 
 ![image](https://user-images.githubusercontent.com/68233114/208980748-cff514ae-cba4-4dca-88e1-f32fb5a621b5.png)
-NEW THEMES
+
+# NEW THEMES
 
 ![image](https://user-images.githubusercontent.com/68233114/208980187-f9bbfd65-ae09-4662-afac-3edfdcad01ca.png)
 
-NEW CUSTOMIZED STICKERS FOR WINDOWS WALLPAPER
+# NEW CUSTOMIZED STICKERS FOR WINDOWS WALLPAPER
 
 
 
@@ -20,10 +21,10 @@ NEW CUSTOMIZED STICKERS FOR WINDOWS WALLPAPER
 
 
 
-to run the script
+# TO RUN SCRIPT IN WINDOWS TERMINAL (POWERSHELL) AS ADMINISTRATOR 
 
-git clone https://github.com/thugsoftechz/eduction_theme_windows.git
+$ git clone https://github.com/thugsoftechz/eduction_theme_windows.git
 
-cd eduction_theme_windows
+$ cd eduction_theme_windows
 
-.\enable.ps1
+$ .\enable.ps1
