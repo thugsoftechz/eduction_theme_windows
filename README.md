@@ -27,4 +27,4 @@ $ git clone https://github.com/thugsoftechz/eduction_theme_windows.git
 
 $ cd eduction_theme_windows
 
-$ .\enable.ps1
+$ ./enable.ps1
